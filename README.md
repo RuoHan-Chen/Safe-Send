@@ -2,11 +2,13 @@
 
 SafeSend is a decentralized application (DApp) built on the Starknet blockchain, designed to provide users with a simple yet powerful tool for checking transaction statuses.
 
+Live Demo: [https://safesend-lgehhghvr-ruohans-projects.vercel.app/](https://safesend-lgehhghvr-ruohans-projects.vercel.app/)
+
 ## Features
 
-- Wallet Connection: Supports both Ethereum and Starknet wallets via Dynamic.xyz
-- Transaction Checking: Input any Starknet transaction hash to retrieve detailed information
-- Responsive Design: Built with React and Next.js, styled with Tailwind CSS for a seamless experience on all devices
+- **Wallet Connection**: Supports both Ethereum and Starknet wallets via Dynamic.xyz
+- **Transaction Checking**: Input any Starknet transaction hash to retrieve detailed information
+- **Responsive Design**: Built with React and Next.js, styled with Tailwind CSS for a seamless experience on all devices
 
 ## Installation
 
